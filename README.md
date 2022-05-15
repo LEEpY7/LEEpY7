@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20CyberSecurity%20%20&fontAlign=30&fontSize=30&textBg=true&desc=개발자를꿈꾸는&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20CyberSecurity%20%20&fontAlign=30&fontSize=30&textBg=true&desc=dream of being a developer&descAlign=60&descAlignY=50)
 
 
 
