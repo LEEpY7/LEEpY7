@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20CyberSecurity%20%20&fontAlign=27&fontSize=30&textBg=true&desc=Dream%20of%20being%20a%20Developer&descAlign=60&descAlignY=50)
-
-SKill
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -11,9 +9,7 @@ SKill
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AWS&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=black">
 <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 
 
