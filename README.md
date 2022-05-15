@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=정보보안전문가%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=정보보안전문가%20놀이터&fontSize=70)
 
 
 
