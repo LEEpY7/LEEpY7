@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20CyberSecurity%20%20&fontAlign=27&fontSize=30&textBg=true&desc=Dream%20of%20being%20a%20Developer&descAlign=60&descAlignY=50)
 
 
+![KaliLinux](https://img.shields.io/badge/Kail%20Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
 
 <!--
